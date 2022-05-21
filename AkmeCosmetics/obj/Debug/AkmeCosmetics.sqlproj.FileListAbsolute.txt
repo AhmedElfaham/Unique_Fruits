@@ -1,0 +1,9 @@
+D:\Technical_Assessment\AkmeCosmetics\bin\Debug\AkmeCosmetics.dacpac
+D:\Technical_Assessment\AkmeCosmetics\bin\Debug\AkmeCosmetics.dll
+D:\Technical_Assessment\AkmeCosmetics\bin\Debug\AkmeCosmetics.pdb
+D:\Technical_Assessment\AkmeCosmetics\obj\Debug\Model.xml
+D:\Technical_Assessment\AkmeCosmetics\obj\Debug\refactor.xml
+D:\Technical_Assessment\AkmeCosmetics\obj\Debug\postdeploy.sql
+D:\Technical_Assessment\AkmeCosmetics\obj\Debug\predeploy.sql
+D:\Technical_Assessment\AkmeCosmetics\obj\Debug\AkmeCosmetics.dll
+D:\Technical_Assessment\AkmeCosmetics\obj\Debug\AkmeCosmetics.pdb
